@@ -46,7 +46,7 @@ var CONFIG = {
   music: {
     enabled: true,
     src: 'assets/theme.mp3',
-    title: 'Музыка',                // название трека рядом с плеером
+    title: 'Halo Theme x Vode An (Republic Commando) | EPIC VERSION (Star Wars x Halo Mashup)',                // название трека рядом с плеером
     volume: 0.2                              // начальная громкость 0..1
   },
 
